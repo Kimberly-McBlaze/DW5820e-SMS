@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DW5820e-SMS (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DW5820e-SMS (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
