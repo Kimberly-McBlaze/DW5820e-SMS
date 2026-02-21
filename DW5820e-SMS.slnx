@@ -10,4 +10,5 @@
     <Platform Solution="*|x86" Project="x86" />
     <Deploy />
   </Project>
+  <Project Path="DW5820e-SMS.Tests/DW5820e-SMS.Tests.csproj" />
 </Solution>
